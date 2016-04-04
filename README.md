@@ -58,7 +58,7 @@ We will respect confidentiality requests for the purpose of protecting victims o
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
-If a participant engages in harassing behavior, the administrators may take any action they deem appropriate, up to and including expulsion from all PHP Australia spaces and identification of the participant as a harasser to other Women in Tech members or the general public.
+If a participant engages in harassing behavior, the administrators may take any action they deem appropriate, up to and including expulsion from all PHP Australia spaces and identification of the participant as a harasser to other PHP Australia members or the general public.
 
 ## Join
 
@@ -67,3 +67,7 @@ You can request an invite to join the PHP Australia Slack team at https://slack.
 ## Slack
 
 Slack chat spaces are divided into rooms called "channels", and we have several set up. There is one that you'll be in by default, called #elephpant, which is where you can meet and greet. All other rooms are opt-in.
+
+## Acknowledgement
+
+This Code of Conduct is a rework of the Code of Conduct from http://witchat.github.io/.
