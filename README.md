@@ -71,3 +71,8 @@ Slack chat spaces are divided into rooms called "channels", and we have several 
 ## Acknowledgement
 
 This Code of Conduct is a rework of the Code of Conduct from http://witchat.github.io/.
+
+## Changes to the Code of Conduct
+
+The Code of Conduct may change from time to time, and the most recent version will be available at https://slack.phpaustralia.org/. We will endeavour to notify all members upon any changes by slack message.
+
