@@ -74,5 +74,5 @@ This Code of Conduct is a rework of the Code of Conduct from http://witchat.gith
 
 ## Changes to the Code of Conduct
 
-The Code of Conduct may change from time to time, and the most recent version will be available at https://slack.phpaustralia.org/. We will endeavour to notify all members upon any changes by slack message.
+The Code of Conduct may change from time to time, and the most recent version will be available at https://slack.phpaustralia.org/. We will endeavour to notify all members upon any changes by slack message. If you would like to suggest a change to the Code of Conduct, the correct process is to raise an issue in [Github](https://github.com/phpaustralia/codeofconduct/issues).
 
